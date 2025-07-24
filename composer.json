@@ -1,5 +1,5 @@
 {
-    "name": "wp-performance/presswind-assets",
+    "name": "spizeak/presswind-assets",
     "description": "Assets helpers for use Vite JS in WordPress",
     "keywords": [
         "vite js",
@@ -8,7 +8,7 @@
         "wordpress theme",
         "wordpress vite"
     ],
-    "homepage": "https://wp-performance.com",
+    "homepage": "https://github.com/SpiZeak/presswind-assets",
     "authors": [
         {
             "name": "faramazpat",

@@ -1,11 +1,5 @@
-vendor/*/
-
-composer.lock
-
+vendor
 node_modules
 .DS_Store
 *.local
-
 .idea
-
-
